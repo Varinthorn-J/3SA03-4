@@ -13,8 +13,6 @@ const activate = () => {
  return (
  <div className={className} onClick={activate}>{props.value}</div>
  )
- 
-
 }
 
 
