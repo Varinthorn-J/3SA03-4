@@ -1,4 +1,5 @@
 import React from 'react';
+import CharacterCard from './CharacterCard';
 import logo from './logo.svg';
 import './App.css';
 
